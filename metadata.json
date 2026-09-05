@@ -1,0 +1,6 @@
+{
+  "name": "Live Hangout & Games",
+  "description": "Real-time hangout lounge featuring live video and voice stage, synchronized group chat, and multiplayer party games.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
